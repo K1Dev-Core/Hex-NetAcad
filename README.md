@@ -1,7 +1,8 @@
 # Hex NetAcad - วิธีติดตั้ง
+ตัวช่วยตอบ Quiz
 
 ## Chrome 
-1. แตกไฟล์หรือวางโฟลเดอร์ `dist` ไว้ในเครื่อง
+1. แตกไฟล์หรือวางโฟลเดอร์ ไว้ในเครื่อง
 2. เปิดหน้า `chrome://extensions/`
 3. เปิด `Developer mode`
 4. กด `Load unpacked`
